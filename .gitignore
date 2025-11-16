@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+
+# Xcode
+*.xccheckout
+*.xcscmblueprint
+*.xcuserstate
+xcuserdata/
+DerivedData/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.pins
+Package.resolved
+
+# Fastlane (if used)
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Logs
+*.log
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# Editor settings (optional)
+.vscode/
+.idea/
+
+
